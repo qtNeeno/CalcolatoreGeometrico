@@ -60,16 +60,22 @@ Scegli una figura geometrica:
 5. Triangolo
 6. Rombo
 7. Esci
+
 1
+
 Inserisci la lunghezza del lato del quadrato:
+
 4
+
 Scegli un calcolo da eseguire:
 1. Area
 2. Perimetro
 3. Diagonale
 4. Raggio
-Torna indietro
+5. Torna indietro
+
 1
+
 Area: 16.0
 
 ### Requisiti di Sistema
